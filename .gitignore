@@ -39,3 +39,73 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+.env.*.local
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.sw?
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Coverage directory used by testing tools
+coverage/
+
+# Parcel cache
+.cache/
+
+# React Native/Expo
+.expo/
+
+# MongoDB database dumps
+dump/
+
+# Misc
+*.tgz
+*.bak
+*.orig
+*.swp
+
+# React-specific
+*.map
+
+# Next.js (if you’re using it for SSR)
+.next/
+
+# Firebase
+.firebase/
+
+# Storybook files
+out/
+.storybook-out/
