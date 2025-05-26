@@ -41,7 +41,8 @@ yarn-error.log*
 next-env.d.ts
 # Node modules
 node_modules/
-
+love.html
+love2.html
 # Build output
 dist/
 build/
