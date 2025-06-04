@@ -160,25 +160,4 @@ See [docs/API.md](./docs/API.md) for detailed API endpoints and usage.
 
 ---
 
-## License
 
-This project is licensed under the MIT License.
-
----
-
-For support, open an issue or contact the maintainer.
-
----
-
-*Inspired by best practices in README writing and AI-powered documentation tools[5][6][7].*
-
-[1] https://github.com/eli64s/readme-ai
-[2] https://github.com/vercel/ai-chatbot/blob/main/README.md
-[3] https://www.reddit.com/r/ChatGPTPromptGenius/comments/1iixh89/i_built_an_ai_agent_that_creates_readme_file_for/
-[4] https://github.com/jehna/readme-best-practices
-[5] https://cubettech.com/resources/blog/the-essential-readme-file-elevating-your-project-with-a-comprehensive-document/
-[6] https://dev.to/potpie/i-built-an-ai-agent-that-creates-readme-file-for-your-code-57l2
-[7] https://dev.to/merlos/how-to-write-a-good-readme-bog
-[8] https://www.reddit.com/r/github/comments/1duf6en/using_chatgpt_and_ai_tools_to_improve_readme/
-[9] https://www.yeschat.ai/gpts-ZxWzhxpq-README-Generator
-[10] https://www.youtube.com/watch?v=3XFdq9RDz6A
